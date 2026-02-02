@@ -1,3 +1,6 @@
+https://github.com/user-attachments/assets/ce4a64ad-ef01-4f39-a184-f8ec2ba900dc
+
+
 # ⚽ OPTIFOOT | football scouting & analytics dashboard
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
